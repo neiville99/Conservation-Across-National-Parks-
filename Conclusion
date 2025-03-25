@@ -1,0 +1,37 @@
+The analysis of the conservation status distribution across various parks provides valuable insights into the state of biodiversity in these regions. 
+By examining the total number of sightings and the relative percentages of species within different conservation statuses, several key observations 
+can be made:
+
+Prevalence of Conservation Status:
+The data reveals that in all parks, over 97% of species fall under the "No Concern" category, which suggests that many species are relatively stable 
+and not at immediate risk of extinction. This could be an indicator of healthy ecosystems in the parks. I also noticed that over the whole data set 
+96.6% of the species fell under the no concern category. I think this is likely due to weighted averages as the range in total sightings for each 
+park was 1,112,778.
+Another notable insight is the number of species are categorised as "In Recovery", represented the lowest proportion at 0.09% of the data set. 
+This indicates that species are not recovering once they enter endangered status. To mitigate this more effort must be spent on recovering already 
+endangered species, or to find ways to prevent species numbers from falling into this category.
+
+Park-Specific Insights:
+Across all parks the data is relatively consistent. The biggest difference is the total number of sightings which, as mentioned earlier, has a range of 
+1,112,778 but the distribution of converstaion status for each park never varies by more than 0.3%. Which shows cosistency among the diferent parks in how
+they care for their animals. This suggests that  all of the parks in the data set will be complying to the same ules and guidelines. 
+
+Species Observations:
+Based on the analysis of the conservation status by category, Mammals emerge as the category most likely to be endangered, with 3.67% of species being 
+classified as endangered or vulnerable. This suggests that mammal species may be more at risk compared to others. In contrast, amphibians (1.22%) and 
+fish (2.29%) also show notable vulnerability, though at lower rates. The bird category (0.68%) and vascular plants (0.02%) display a relatively lower
+proportion of endangered species. Interestingly, there are no data available for nonvascular plants and reptiles, which highlights a gap in conservation 
+efforts or data collection for these categories. Overall, this analysis underscores the need for focused conservation strategies for mammals, fish, and 
+amphibians, given their higher rates of endangerment.
+
+Conclusions:
+Based on the findings from the analysis of conservation status distribution across parks, the following recommendations are suggested to enhance 
+conservation efforts and improve biodiversity management.
+With only 0.09% of species in recovery, more resources should be allocated to help endangered species recover, and conservation for mammals, mmphibians, 
+and Fish. Given their higher endangerment rates (mammals: 3.67%, amphibians: 1.22%, fish: 2.29%), conservation efforts should focus on protecting these 
+groups through habitat protection and addressing threats like climate change. There is insufficient data for nonvascular plants and reptiles. More 
+surveys and research should be conducted to assess their conservation status and needs. In doing so we may find that they require even more resources 
+than even mammals.
+
+In summary, targeted efforts to recover endangered species, focus on at-risk categories, and address data gaps will strengthen conservation across parks.
+We can also take away that all parks, are following similar protocols and best practises to ensure development of healthy eco systems. 
